@@ -91,13 +91,6 @@ npm install
 npm run dev
 ```
 
-## API Endpoints
-- /api/patients
-- /api/doctors
-- /api/appointments
-- /api/rooms
-- /api/bills
-- /api/staff
 
 ## Notes
 - The backend uses a connection pool and prepared statements via `mysql2`.
